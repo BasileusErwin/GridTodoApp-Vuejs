@@ -1,5 +1,5 @@
 # Grid TodoApp
-[TodoApp](grud-todo-app.netlify.app)
+La pagina web se pude visualizar en [TodoApp](grud-todo-app.netlify.app)
 
 ## Project setup
 ```
@@ -15,6 +15,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
