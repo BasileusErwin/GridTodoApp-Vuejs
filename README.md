@@ -1,5 +1,4 @@
 # Grid TodoApp
-La pagina web se pude visualizar en [TodoApp](grud-todo-app.netlify.app)
 
 ## Project setup
 ```
